@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1745551227402,
+  "timestamp": 1745555487846,
   "index": "https://kt2746.github.io/fla/index.html",
   "assetGroups": [
     {
@@ -164,6 +164,7 @@
         "https://kt2746.github.io/fla/data/dsp/data.json",
         "https://kt2746.github.io/fla/data/dsp/defaults.json",
         "https://kt2746.github.io/fla/data/dsp/hash.json",
+        "https://kt2746.github.io/fla/data/dsp/i18n/ja.json",
         "https://kt2746.github.io/fla/data/dsp/i18n/zh.json",
         "https://kt2746.github.io/fla/data/dsp/icons.webp",
         "https://kt2746.github.io/fla/data/dsp/map.json",
@@ -466,6 +467,7 @@
     "https://kt2746.github.io/fla/data/dsp/data.json": "1033ca7ea94f1e1fc459e6779b72aa0e323b5265",
     "https://kt2746.github.io/fla/data/dsp/defaults.json": "39f560850680104c886d8f39ba23cfd953d47af3",
     "https://kt2746.github.io/fla/data/dsp/hash.json": "cca9816b36ba5c592e564be39d7ddd9056e72b21",
+    "https://kt2746.github.io/fla/data/dsp/i18n/ja.json": "a9c6c6022d538928321846bec8af6796d61fd405",
     "https://kt2746.github.io/fla/data/dsp/i18n/zh.json": "afc3a738bb578333ba68796fcfa42daf63a83e5a",
     "https://kt2746.github.io/fla/data/dsp/icons.webp": "78cdffd8f250f81ed98d86a0581cc74f88c6c2ca",
     "https://kt2746.github.io/fla/data/dsp/map.json": "1721e509dfc35320ea7538a43df61c9c29aba710",
@@ -635,8 +637,8 @@
     "https://kt2746.github.io/fla/safari-pinned-tab.svg": "1052de5d87de51b50e7b4268da2b0423e5c5a6d1",
     "https://kt2746.github.io/fla/site.webmanifest": "c9d3c45ff19662e72c6612b39b057e5c864b0c94",
     "https://kt2746.github.io/fla/styles-SZXI2DTI.css": "53658486912c7ed27042c6c3015b8f378a9e8773",
-    "https://kt2746.github.io/fla/theme-black.css": "ba1b51cb1b78c85e89b2a79382c99894b33a03a3",
-    "https://kt2746.github.io/fla/theme-dark.css": "0e8fdcab138d141fd4b2695ae6b6cdcc31ebab4d",
+    "https://kt2746.github.io/fla/theme-black.css": "dda82844edea1f2c2594891a60c186b31ae0b552",
+    "https://kt2746.github.io/fla/theme-dark.css": "dc020167f2c671b69e09aacfe651b21b9f642e70",
     "https://kt2746.github.io/fla/theme-light.css": "a2c4456d11bc71f9d45a91660217572c24b1a06b"
   },
   "navigationUrls": [
