@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1745564362105,
+  "timestamp": 1745567949728,
   "index": "https://kt2746.github.io/fla/index.html",
   "assetGroups": [
     {
@@ -343,7 +343,7 @@
     "https://kt2746.github.io/fla/assets/i18n/de.json": "fdf28124a40c906c7eafb039ea4819af8909abc4",
     "https://kt2746.github.io/fla/assets/i18n/en.json": "ada0f3330b68efecfb6753dd49faf40158940e0e",
     "https://kt2746.github.io/fla/assets/i18n/fr.json": "bb77f4132e8ac3afaf9f44e6d1519b43b785c3e0",
-    "https://kt2746.github.io/fla/assets/i18n/ja.json": "3b2d8a81dfe2fe6ffc5f369f8da5113ad53ba4d4",
+    "https://kt2746.github.io/fla/assets/i18n/ja.json": "c46372726d2ea803fe7e178b92595d1b4c0fb577",
     "https://kt2746.github.io/fla/assets/i18n/ru.json": "7e7475836aecf8c8e3fd880a676323ff69e3dbac",
     "https://kt2746.github.io/fla/assets/i18n/zh.json": "d5f85fa9cc18d27bd7573dc83a543e7c489a61e5",
     "https://kt2746.github.io/fla/assets/release.json": "8c361ad56326ac8b2b3c1c8eb9996d0a9ca85d7e",
@@ -640,7 +640,7 @@
     "https://kt2746.github.io/fla/site.webmanifest": "c9d3c45ff19662e72c6612b39b057e5c864b0c94",
     "https://kt2746.github.io/fla/styles-FESATANA.css": "622748158a03fdfe9177ab251afab5128db8f08e",
     "https://kt2746.github.io/fla/theme-black.css": "dda82844edea1f2c2594891a60c186b31ae0b552",
-    "https://kt2746.github.io/fla/theme-dark.css": "dc020167f2c671b69e09aacfe651b21b9f642e70",
+    "https://kt2746.github.io/fla/theme-dark.css": "1b59a76f1a1ebefc6324c2a55a86034c45ce1e74",
     "https://kt2746.github.io/fla/theme-light.css": "a2c4456d11bc71f9d45a91660217572c24b1a06b"
   },
   "navigationUrls": [
