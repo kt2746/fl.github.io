@@ -374,7 +374,8 @@
     "includedRecipes": "含まれるレシピ",
     "includedRecipesInfo": "含める、または除外するレシピをクリックしてください。除外されたレシピは計算に使われなくなります。",
     "total": "合計",
-    "emptyMessage": "図のノードをクリックすると詳細が表示されます。"
+    "emptyMessage": "図のノードをクリックすると詳細が表示されます。",
+    "selectRecipesTooltip": "このアイテムに含まれるレシピを選択するにはクリックしてください"
   },
   "flow": {
     "downloadAsPng": "PNGダウンロード",

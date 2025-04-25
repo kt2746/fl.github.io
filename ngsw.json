@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1745559362685,
+  "timestamp": 1745561777834,
   "index": "https://kt2746.github.io/fla/index.html",
   "assetGroups": [
     {
@@ -341,7 +341,7 @@
     "https://kt2746.github.io/fla/assets/i18n/de.json": "fdf28124a40c906c7eafb039ea4819af8909abc4",
     "https://kt2746.github.io/fla/assets/i18n/en.json": "ada0f3330b68efecfb6753dd49faf40158940e0e",
     "https://kt2746.github.io/fla/assets/i18n/fr.json": "bb77f4132e8ac3afaf9f44e6d1519b43b785c3e0",
-    "https://kt2746.github.io/fla/assets/i18n/ja.json": "ef41780b125c3e71186b54fc15005e40cbad9228",
+    "https://kt2746.github.io/fla/assets/i18n/ja.json": "3b2d8a81dfe2fe6ffc5f369f8da5113ad53ba4d4",
     "https://kt2746.github.io/fla/assets/i18n/ru.json": "7e7475836aecf8c8e3fd880a676323ff69e3dbac",
     "https://kt2746.github.io/fla/assets/i18n/zh.json": "d5f85fa9cc18d27bd7573dc83a543e7c489a61e5",
     "https://kt2746.github.io/fla/assets/release.json": "8c361ad56326ac8b2b3c1c8eb9996d0a9ca85d7e",
@@ -615,7 +615,7 @@
     "https://kt2746.github.io/fla/favicon-32x32.png": "657c076b7199ef78bd2fca9a241b910851de496e",
     "https://kt2746.github.io/fla/favicon.ico": "90b7d7707124d6fbd7f9acf4445fc1e6d98a3a2e",
     "https://kt2746.github.io/fla/icons.webp": "483649f5ebb30add25c18855e03d562b9d8e958f",
-    "https://kt2746.github.io/fla/index.html": "5f11daa22b24ca8a9467c6dd48070beadf2b60f6",
+    "https://kt2746.github.io/fla/index.html": "491e0a0bf9d1c801ccf401d170cfe58d6060dcb9",
     "https://kt2746.github.io/fla/main-4CUMRIVW.js": "d7486f841f6c62ffb539692c0adc204efe9346cf",
     "https://kt2746.github.io/fla/media/color-727V6BA6.png": "c54e4eac0b6c88b9da8cfdf00b1d9093b828286b",
     "https://kt2746.github.io/fla/media/fa-brands-400-CNBICIQT.ttf": "7ce89c71d5a51ac65b159c71422783dd86529c66",
