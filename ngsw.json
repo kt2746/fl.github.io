@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1745569275685,
+  "timestamp": 1746078652762,
   "index": "https://kt2746.github.io/fla/index.html",
   "assetGroups": [
     {
@@ -469,7 +469,7 @@
     "https://kt2746.github.io/fla/data/dsp/data.json": "1033ca7ea94f1e1fc459e6779b72aa0e323b5265",
     "https://kt2746.github.io/fla/data/dsp/defaults.json": "39f560850680104c886d8f39ba23cfd953d47af3",
     "https://kt2746.github.io/fla/data/dsp/hash.json": "cca9816b36ba5c592e564be39d7ddd9056e72b21",
-    "https://kt2746.github.io/fla/data/dsp/i18n/ja.json": "a1cbe0af40afb636a716bae20c22f445c9fde73f",
+    "https://kt2746.github.io/fla/data/dsp/i18n/ja.json": "3f05361d26de98cb858a40af9444cb5c19e7b2e8",
     "https://kt2746.github.io/fla/data/dsp/i18n/zh.json": "afc3a738bb578333ba68796fcfa42daf63a83e5a",
     "https://kt2746.github.io/fla/data/dsp/icons.webp": "78cdffd8f250f81ed98d86a0581cc74f88c6c2ca",
     "https://kt2746.github.io/fla/data/dsp/map.json": "1721e509dfc35320ea7538a43df61c9c29aba710",
